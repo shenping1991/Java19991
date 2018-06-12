@@ -13,7 +13,7 @@ public class Variable {
 	private String legs;
 	
 	public void method() {
-		int i=0;//局部变量
+		int i=0;//局部变量//
 	}
 	public void pupAge() {
 		int age=0;//局部变量

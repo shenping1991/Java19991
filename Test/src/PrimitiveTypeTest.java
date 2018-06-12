@@ -41,7 +41,7 @@ public class PrimitiveTypeTest {
 		System.out.println("包装类：java.lang.Double");
 		System.out.println("最小值：Double.MIN_VALUE="+Double.MIN_VALUE);
 		System.out.println("最大值：Double.MAX_VALUE="+Double.MAX_VALUE);
-		System.out.println();
+		System.out.println();//
 		
 		
 		//char
